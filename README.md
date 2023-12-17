@@ -2,7 +2,7 @@
 Este repositorio contiene un ensayo sobre la hibridación de la plataforma Microsoft Mesh en el ámbito de la educación en línea. 
 ### Introducción
 Explicacion dos hibridaciones.
-## Re-descubriendo la Hibridación: Microsoft Mesh
+# Re-descubriendo la Hibridación: Microsoft Mesh
 
 En este apartado, nos sumergimos en cómo Microsoft Mesh redefine la hibridación en la educación en línea, centrándonos en sus características fundamentales y su impacto en diversos aspectos.
 
@@ -44,6 +44,12 @@ Al examinar el impacto de Microsoft Mesh en el proceso de aprendizaje, nos sumer
 
 Microsoft Mesh, al ser una plataforma de realidad virtual, ofrece un entorno educativo donde la hibridación de lo físico y lo digital cobra vida. La capacidad de simular entornos tridimensionales, colaborar holográficamente y explorar conceptos de manera inmersiva amplía las posibilidades de aprendizaje. La interfaz metamediática de Microsoft Mesh transforma la educación en línea en una experiencia envolvente que va más allá de la simple transferencia de información.
 
-Este enfoque no solo mejora la accesibilidad y la participación, sino que también promueve la creatividad y la colaboración entre los estudiantes. Al integrar la simulación de medios existentes y la creación de nuevos medios, Microsoft Mesh se convierte en un facilitador de experiencias de aprendizaje que trascienden los límites tradicionales de la educación en línea.
+# Hibridación en la Moda y Tecnología: Realidad Aumentada como Manifestación de la Estética de Manovich
 
-Al abrazar la filosofía de Manovich sobre el metamedio, Microsoft Mesh no solo se convierte en una herramienta educativa, sino en un entorno dinámico que fusiona lo analógico y lo digital, abriendo nuevas posibilidades para el aprendizaje interactivo y significativo.
+Lev Manovich, pionero en teorías de la cultura digital, destaca la hibridación como la nueva estética del siglo XXI, facilitada por la revolución del software que convierte cualquier medio en código binario. Esta transformación posibilita una amplia gama de mezclas, combinaciones y collages. Según Manovich, la hibridación se manifiesta en dos estéticas: la visible, basada en la yuxtaposición de elementos, y la invisible, generada por la fusión de elementos diversos.
+
+En el contexto de la industria del arte, la realidad aumentada emerge como un medio que encapsula la esencia de la estética híbrida de Manovich. Exploraremos cómo artistas experimentales e independientes adoptan la realidad aumentada para expandir las fronteras de la experiencia artística. Al sumergirnos en la creación de experiencias artísticas ampliadas, la fusión de lo virtual y lo real se convierte en el epicentro de la innovación.
+
+Exploraremos la incorporación de wearables inteligentes en la moda, examinando cómo estos dispositivos van más allá de la funcionalidad para convertirse en expresiones de estilo. Desde smartwatches hasta prendas interactivas, la convergencia de la moda y la tecnología redefine la relación entre la vestimenta y la conectividad.
+
+Esta propuesta nos sumergirá en un viaje donde la moda y la tecnología se entrelazan, dando como resultado una experiencia única y personalizada para los consumidores.
