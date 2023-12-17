@@ -1,7 +1,7 @@
 # Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 ### Introducción
-Explicacion dos hibridaciones.
-# Re-descubriendo la Hibridación: Microsoft Mesh
+En esta PEC hablaremos sobre la hibridación en dos casos: Microsoft Mesh y Realidad aumentada en la Moda.
+# Re-descubriendo la Hibridación: Microsoft Mesh 
 
 Microsoft Mesh se presenta como una plataforma de realidad virtual que va más allá de las videollamadas tradicionales. Utilizando tecnología 3D, la plataforma captura momentos de manera que los usuarios sienten que comparten un espacio con otros, sin importar la distancia física. La sensación de presencia virtual facilita la colaboración y el trabajo a distancia, transformando la manera en que nos conectamos digitalmente.
 
