@@ -73,7 +73,10 @@ Al contemplar la realidad aumentada como herramienta creativa en la industria de
 
 La realidad aumentada en la industria del arte se presenta como una expresión viva y dinámica de la estética híbrida, desafiando las percepciones convencionales y abriendo nuevas fronteras para la creatividad en la era digital.
 
-# Referencias y Bibliografía
+#### Referencias y Bibliografía
 https://audaces.com/es/blog/iris-van-herpen-y-sis-tecnicas-3d-en-el-mundo-de-la-moda
 https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
+https://sedici.unlp.edu.ar/bitstream/handle/10915/40562/Documento_completo.pdf?sequence=1
+https://www.orange.es/metaverso/noticias/entretenimiento/como-colaborar-en-la-plataforma-microsoft-mesh#:~:text=%C2%BFQu%C3%A9%20es%20Microsoft%20Mesh%3F,y%20colaborar%20hologr%C3%A1ficamente%20entre%20s%C3%AD.
+
 
