@@ -1,5 +1,7 @@
-# PEC3_Microsoft_Mesh
+# Microsoft Mesh
 Este repositorio contiene un ensayo sobre la hibridación de la plataforma Microsoft Mesh en el ámbito de la educación en línea. 
+### Introducción
+Explicacion dos hibridaciones.
 ## Re-descubriendo la Hibridación: Microsoft Mesh
 
 En este apartado, nos sumergimos en cómo Microsoft Mesh redefine la hibridación en la educación en línea, centrándonos en sus características fundamentales y su impacto en diversos aspectos.
