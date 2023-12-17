@@ -53,3 +53,17 @@ En el contexto de la industria del arte, la realidad aumentada emerge como un me
 Exploraremos la incorporación de wearables inteligentes en la moda, examinando cómo estos dispositivos van más allá de la funcionalidad para convertirse en expresiones de estilo. Desde smartwatches hasta prendas interactivas, la convergencia de la moda y la tecnología redefine la relación entre la vestimenta y la conectividad.
 
 Esta propuesta nos sumergirá en un viaje donde la moda y la tecnología se entrelazan, dando como resultado una experiencia única y personalizada para los consumidores.
+
+## Fusionando lo Visible e Invisible en la Industria del Arte
+
+Lev Manovich propone que la hibridación se manifiesta en dos estéticas: lo visible, logrado mediante la yuxtaposición de elementos, y lo invisible, derivado de la fusión de elementos diversos. Al explorar la adopción de la realidad aumentada en la industria del arte, podemos observar cómo esta tecnología encapsula ambas dimensiones de la estética híbrida de Manovich.
+
+### Estética Visible: Yuxtaposición de Elementos Virtuales
+
+La realidad aumentada permite a los artistas y creadores superponer elementos virtuales en el entorno físico, creando experiencias visuales que desafían las percepciones tradicionales. Ejemplos notables incluyen instalaciones de arte donde elementos digitales interactúan con la realidad física, llevando al espectador a un espacio donde lo tangible y lo intangible coexisten.
+
+### Estética Invisible: Fusión Creativa de Elementos Diversos
+
+La capacidad de la realidad aumentada para transformar el entorno físico en un lienzo digital proporciona a los artistas una paleta infinita para la creación. La fusión de elementos diversos, desde formas tridimensionales hasta narrativas digitales, se convierte en una manifestación de la estética invisible de Manovich. Los artistas pueden experimentar con la realidad física, infundiéndola con capas invisibles de significado y creatividad.
+
+Al adentrarnos en la industria del arte impulsada por la realidad aumentada, observamos cómo esta tecnología no solo añade elementos virtuales a lo tangible, sino que también crea una experiencia estética que fusiona lo visible e invisible de manera única.
