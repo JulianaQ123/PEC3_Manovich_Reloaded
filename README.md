@@ -20,7 +20,8 @@ Microsoft Mesh se destaca especialmente en el ámbito laboral, facilitando reuni
 
 Exploramos las múltiples utilidades de Microsoft Mesh en sectores como el sanitario, donde la plataforma podría desempeñar un papel crucial en la asistencia médica remota y la rehabilitación. En definitiva, Microsoft Mesh abre infinitas posibilidades para el crecimiento laboral y profesional, redefiniendo la forma en que colaboramos y aprendemos en entornos virtuales.
 
-[![](https://markdown-videos.deta.dev/youtube/Microsoft)](https://youtu.be/Jd2GK0qDtRg?si=kCHMwnBBtD1QNT70)
+[![](https://markdown-videos.deta.dev/youtube/Microsoft)](https://www.youtube.com/watch?v=Jd2GK0qDtRg&ab_channel=Microsoft)
+
 
 ## "Metamedio" Lev Manovich
 
