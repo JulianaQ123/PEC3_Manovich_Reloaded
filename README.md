@@ -1,5 +1,4 @@
-# Microsoft Mesh
-Este repositorio contiene un ensayo sobre la hibridación de la plataforma Microsoft Mesh en el ámbito de la educación en línea. 
+# Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 ### Introducción
 Explicacion dos hibridaciones.
 # Re-descubriendo la Hibridación: Microsoft Mesh
@@ -53,6 +52,10 @@ En el contexto de la industria del arte, la realidad aumentada emerge como un me
 Exploraremos la incorporación de wearables inteligentes en la moda, examinando cómo estos dispositivos van más allá de la funcionalidad para convertirse en expresiones de estilo. Desde smartwatches hasta prendas interactivas, la convergencia de la moda y la tecnología redefine la relación entre la vestimenta y la conectividad.
 
 Esta propuesta nos sumergirá en un viaje donde la moda y la tecnología se entrelazan, dando como resultado una experiencia única y personalizada para los consumidores.
+
+
+https://github.com/JulianaQ123/PEC3_Microsoft_Mesh/assets/154063898/a1a2372c-2748-4009-baf0-f1e8c11dd4a6
+
 
 ## Fusionando lo Visible e Invisible en la Industria del Arte
 
