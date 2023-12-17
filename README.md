@@ -72,3 +72,8 @@ Al sumergirnos en la colaboración digital facilitada por la realidad aumentada,
 Al contemplar la realidad aumentada como herramienta creativa en la industria del arte, reconocemos que esta tecnología no solo transforma la manera en que interactuamos con el arte, sino que también refleja la evolución de la estética en la era digital. La colaboración digital y la fusión de lo tangible e intangible se entrelazan para ofrecer experiencias artísticas ampliadas que resuenan con la visión de Manovich sobre la hibridación.
 
 La realidad aumentada en la industria del arte se presenta como una expresión viva y dinámica de la estética híbrida, desafiando las percepciones convencionales y abriendo nuevas fronteras para la creatividad en la era digital.
+
+# Referencias y Bibliografía
+https://audaces.com/es/blog/iris-van-herpen-y-sis-tecnicas-3d-en-el-mundo-de-la-moda
+https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
+
